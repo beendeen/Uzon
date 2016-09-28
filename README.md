@@ -1,6 +1,6 @@
-# Информация
+# Malumot
 
-![Russian Language Pack](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag-map_of_Russia.svg/1000px-Flag-map_of_Russia.svg.png)
+![Uzbek tili](http://2.bp.blogspot.com/-UYYWFb9Ayh4/TrGKvY7xTLI/AAAAAAAAERI/r6ptCsDN0gM/s640/Flag-map-of-uzbekistan.png)
 
 Пакет русской локализации движка [**Flarum**](//flarum.org/) - программного обеспечения нового поколения для создания сообществ. Реализована поддержка единичных и множественных чисел (переменных). Все фразы взяты в двойные кавычки для предотвращения конфликтов со знаками препинания, потому что их в русском языке используется большее количество, по сравнению с английским.
 
@@ -8,7 +8,7 @@
 
 ## Установка
 
-### Использовать Composer
+### Composer yordamida
 
 Flarum использует Composer для управления зависимостями и расширениями.
 Русский пакет локализации доступен в [Packagist](//packagist.org/packages/csi/flarum-ext-russian) и может быть установлен также при помощи Composer.
@@ -21,16 +21,10 @@ composer require csi/flarum-ext-russian
 Так же, данная команда может быть использована для обновления языкового пакета, без обновления сторонних компонентов.
 Обратите внимание, что пакет локализации будет добавлен в качестве зависимости Flarum, и он также будет автоматически обновляться при обновлении движка форума.
 
-**_Удачи вам в освоении нового движка!_** :smile:
-
 ## Авторы
 
-* [KitsuneSolar](//kitsune.solar/) (Создатель)
-* [Infinity](//flarum.help/u/Infinity) (Корректор)
+* [Shaxzod](//vk.com/idocce/) (Создатель)
 
-## Ссылки
+## Aloqa
 
-- [Сотрудничество](CONTRIBUTING.md)
-- [Список изменений](CHANGELOG.md)
-- [Русскоязычное сообщество Flarum](//flarum.help/)
-- [Документация Flarum на CYBERSPACE.Wiki](//flarum.cyberspace.wiki/)
+- [Saytimiz](/dic.uzon.uz/)
