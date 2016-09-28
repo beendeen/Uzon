@@ -1,11 +1,11 @@
 {
-  "name": "csi/flarum-ext-russian",
+  "name": "shax/flarum-ext-uzbek",
   "type": "flarum-extension",
-  "description": "Russian language pack for Flarum.",
-  "homepage": "https://flarum.help/",
+  "description": "Uzbek language pack for Flarum.",
+  "homepage": "http://dis.uzon.uz/",
   "keywords": [
     "flarum",
-    "russian",
+    "uzbek",
     "language",
     "locale",
     "localization",
@@ -14,36 +14,36 @@
   "license": "GPL-3.0",
   "authors": [
     {
-      "name": "Kitsune Solar",
-      "email": "msg@kitsune.solar",
-      "homepage": "https://kitsune.solar/"
+      "name": "shaxzod xolmurodov",
+      "email": "shax@uzon.uz",
+      "homepage": "https://vk.com/idocce/"
     },
     {
-      "name": "Infinity",
-      "email": "animals.ru@mail.ru"
+      "name": "Shaxzod",
+      "email": "idocce22@gmail.com"
     }
   ],
   "support": {
-    "source": "https://github.com/cbrspc/FLARUM.LP.RUS.Core",
-    "issues": "https://flarum.help/d/2/",
-    "forum": "https://flarum.help/"
+    "source": "https://github.com/beendeen/Uzon",
+    "issues": "http://dis.uzon.uz",
+    "forum": "http://dis.uzon.uz/"
   },
   "require": {
-    "flarum/core": "^0.1.0-beta.5"
+    "flarum/core": "^1.0 beta version"
   },
   "suggest": {
-    "flarum/flags": "Разрешает пользователям отмечать сообщения для рассмотрения модератором.",
-    "flarum/likes": "Разрешает пользователям отмечать понравившиеся сообщения.",
-    "flarum/lock": "Закрывает дискуссии и не позволяет добавлять новые сообщения.",
-    "flarum/mentions": "Упоминания и ответы отдельным пользователям.",
-    "flarum/pusher": "Смотреть новые дискуссии и сообщения в режиме реального времени, используя Pusher.",
-    "flarum/sticky": "Прикрепление дискуссий в списке.",
-    "flarum/subscriptions": "Разрешает пользователям наблюдать за дискуссиями и получать уведомления о новых сообщениях.",
-    "flarum/tags": "Структурирование дискуссий по иерархии тегов и категорий."
+    "flarum/flags": "Фойдаланувчиларга Модераторга жунатиш учун шархларни белгилаш имконини беради.",
+    "flarum/likes": "Фойдаланувчиларга ёкган шархларни белгилаш имконини беради.",
+    "flarum/lock": "Мунозаларни ёпиб янги шархларни кушишни такиклайди.",
+    "flarum/mentions": "Узга фойдаланувчиларнинг жавоб ва эсламалари.",
+    "flarum/pusher": "Pusher ёрдамида янги шархлар ва мунозараларни тезда куриш.",
+    "flarum/sticky": "Мунозараларни руйхатга боглаш.",
+    "flarum/subscriptions": "Фойдаланувчиларга мунозаларни кузатиб турушда ва янги шархлардан бохабар булиш имконини беради.",
+    "flarum/tags": "Мунозаларнинг калитли сузлари."
   },
   "extra": {
     "flarum-extension": {
-      "title": "Русский",
+      "title": "Узбек",
       "icon": {
         "image": "icon.svg",
         "backgroundColor": "#fff",
@@ -52,8 +52,8 @@
       }
     },
     "flarum-locale": {
-      "code": "ru",
-      "title": "Русский"
+      "code": "uz",
+      "title": "Узбек"
     }
   }
 }
